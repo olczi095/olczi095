@@ -9,5 +9,6 @@ I want to be a programmer. I would like to focus on backend.
 I've been learning Python for several months. At that time, I also caught the basics of postgreSQL and took a look on HTML.🤪
 
 
+
 Wish me luck! 
 Any tips would be appreciated. Open to contact with U 🤝
