@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi! I'm Ola 🙋‍♀️
 
-<!--
-**olczi095/olczi095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For the last few years I've been working as a freelance copywriter and content writer, managing my own websites (especially one with fit food review) and doing some things related with SEO.
 
-Here are some ideas to get you started:
+🤖 However, I have always wanted to connect the work with my mathematical mind and love for logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I made a decision to change my career path.
+I want to be a programmer. I would like to focus on backend.
+I've been learning Python for several months. At that time, I also caught the basics of postgreSQL and took a look on HTML.🤪
+
+
+Wish me luck! 
+Any tips would be appreciated. Open to contact with U 🤝
