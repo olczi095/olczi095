@@ -1,4 +1,4 @@
-<h1 align="center">🖤 Hello, I'm Ola (but you can call me Olczi)</h1>
+<h1 align="center">Hello, I'm Ola (but you can call me Olczi)</h1>
 <h3 align="center">A passionate beginner Python developer from Breslau in Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olczi095&label=Profile%20views&color=0e75b6&style=flat" alt="olczi095" /> </p>
@@ -9,9 +9,9 @@
 
 - 🖋️ For the last few years I've been working as a freelance copywriter and content writer, managing my own websites (especially one with fit food review) and doing some things related with SEO. **But I want to change it!**
 
-- 📩 OPEN TO CONTACT WITH U: **aleksandradabrowska095@gmail.com**
+- 📩 Open to contact with you: **aleksandradabrowska095@gmail.com**
 
-- ⚡ Fun fact about me: **I love dark chocolate. The darker the better. The best start with 95% cocoa.**
+- ⚡ Fun fact about me: **I love dark chocolate. The darker the better. The best start with at least 80% cocoa.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
