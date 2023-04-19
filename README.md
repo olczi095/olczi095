@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ola (but you can call me Olczi)</h1>
-<h3 align="center">A passionate beginner Python developer from Breslau in Poland</h3>
+<h3 align="center">A passionate beginner Python developer from Wrocław in Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olczi095&label=Profile%20views&color=0e75b6&style=flat" alt="olczi095" /> </p>
 
