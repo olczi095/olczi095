@@ -5,9 +5,9 @@
 
 - 💻 Working at **Insert company** as a Junior Fullstack Developer. 
 
-- 🥷 "💻 Currently using **Python with Django and Wagtail, JavaScript, HTML, and CSS in my work**."
+- 🥷 Currently using **Python with Django and Wagtail, JavaScript, HTML, and CSS in my work**.
 
-- 🖋️ For the last few years I've been working as a freelance copywriter and content writer, managing my own websites (especially one with fit food review) and doing some things related with SEO. **But I want to change it!**
+- 🖋️ For the last few years I've been working as a freelance copywriter and content writer, managing my own websites and doing some things related with SEO.
 
 - 📩 Open to contact with you: **aleksandradabrowska095@gmail.com**
 
