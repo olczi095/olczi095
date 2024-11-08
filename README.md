@@ -1,22 +1,22 @@
-<h1 align="center">Hello, I'm Ola (but you can call me Olczi)</h1>
+<h1 align="center">Hello, I'm Ola (Olczi)</h1>
 <h3 align="center">A passionate beginner Python developer from Wrocław in Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olczi095&label=Profile%20views&color=0e75b6&style=flat" alt="olczi095" /> </p>
 
-- 💻 Currently working on **developing on my own as a developer, mainly in Python, especially in the Backend.**
+- 💻 Working at **Insert company** as a Junior Fullstack Developer. 
 
-- 🥷 I’m currently learning **Django framework and a little bit of SQL and HTML with CSS and trying to develop my English Skills.**
+- 🥷 "💻 Currently using **Python with Django and Wagtail, JavaScript, HTML, and CSS in my work**."
 
 - 🖋️ For the last few years I've been working as a freelance copywriter and content writer, managing my own websites (especially one with fit food review) and doing some things related with SEO. **But I want to change it!**
 
 - 📩 Open to contact with you: **aleksandradabrowska095@gmail.com**
 
-- ⚡ Fun fact about me: **I love dark chocolate. The darker the better. The best start with at least 80% cocoa.**
+- 🏃‍♀️ Personally in love with running and a little bit of cooking (but even more with eating 🙃).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ola.dabrowska.982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ola.dabrowska.982" height="30" width="40" /></a>
-<a href="https://instagram.com/mocnezarcie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mocnezarcie" height="30" width="40" /></a>
+<a href="https://pl.linkedin.com/in/aleksandra-dabrowska-developer/pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
